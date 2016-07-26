@@ -1,0 +1,9 @@
+name: PMInvisibleBedrockRemover
+main: DDSPlugins\PMInvisibleBedrockRemover\PMInvisibleBedrockRemover
+version: 0.0.1
+api: 2.0.0
+
+commands:
+  removebedrock:
+    description: "Allows the player to remove invisible bedrock directly below his feet"
+    usage: "/removebedrock"
