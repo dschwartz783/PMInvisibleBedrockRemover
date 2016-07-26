@@ -32,9 +32,4 @@ class PMInvisibleBedrockRemover extends PluginBase
         }
         return true;
     }
-
-    function console_error_message() {
-        $this->getLogger()->error("This command cannot be run from console");
-        return true;
-    }
 }
