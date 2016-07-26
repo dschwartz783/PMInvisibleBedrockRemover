@@ -4,6 +4,6 @@ version: 0.0.1
 api: 2.0.0
 
 commands:
-  removebedrock:
+  rbr:
     description: "Allows the player to remove invisible bedrock directly below his feet"
-    usage: "/removebedrock"
+    usage: "/rbr"
