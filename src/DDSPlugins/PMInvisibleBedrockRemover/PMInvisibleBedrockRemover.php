@@ -9,14 +9,10 @@
 namespace DDSPlugins\PMInvisibleBedrockRemover;
 
 use pocketmine\block\Block;
-use pocketmine\entity\Entity;
 use pocketmine\Player;
 use pocketmine\plugin\PluginBase;
 use pocketmine\command\CommandSender;
 use pocketmine\command\Command;
-use pocketmine\item\Item;
-use pocketmine\event\player\PlayerItemHeldEvent;
-use pocketmine\entity\Effect;
 
 class PMInvisibleBedrockRemover extends PluginBase
 {
